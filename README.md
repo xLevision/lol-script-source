@@ -4,7 +4,7 @@
 
 ## What Are League of Legends Scripts?
 
-[LoL Scripts]: https://lolscript.gg are essentially pieces of code created to automate certain actions or tasks within the game. These scripts can do anything from timing skill shots perfectly, dodging enemy attacks, to optimizing pathing for efficient farming. They're designed to increase your gameplay efficiency and give you an advantage over your opponents. 
+[LoL Scripts](https://lolscript.gg) are essentially pieces of code created to automate certain actions or tasks within the game. These scripts can do anything from timing skill shots perfectly, dodging enemy attacks, to optimizing pathing for efficient farming. They're designed to increase your gameplay efficiency and give you an advantage over your opponents. 
 
 ## Understanding The Benefits of LoL Scripts
 
